@@ -1,0 +1,28 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Projeto de Testes para JavaScript e NodeJS com Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glauciodaniel/jest.git"
+  },
+  "keywords": [
+    "jest",
+    "javascript",
+    "nodejs",
+    "test",
+    "tdd",
+    "ci",
+    "cd"
+  ],
+  "author": "Glaucio Daniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glauciodaniel/jest/issues"
+  },
+  "homepage": "https://github.com/glauciodaniel/jest#readme"
+}
